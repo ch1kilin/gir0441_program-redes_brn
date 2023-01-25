@@ -1,3 +1,9 @@
+"""
+Nombre: angel de jesus rosas muñoz
+Fecha: 13/01/23
+Descripción: Entraran dos valores flotantes para realizar diferentes operaciones artimeticas
+"""
+
 a= float(input("ingeresa el primer valor "))# ingresa un valor flotante para la variable a aquí
 b= float(input("ingresa el segundo valor "))# ingresa un valor flotante para la variable b aquí
 

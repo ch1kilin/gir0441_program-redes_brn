@@ -1,3 +1,9 @@
+"""
+Nombre: angel de jesus rosas muñoz
+Fecha: 13/01/23
+Descripción: 
+"""
+
 """"
 Observa el código en el editor: lee un valor flotante, lo coloca en una variable llamada x, e imprime el
 valor de la variable llamada y. Tu tarea es completar el código para evaluar la siguiente expresión:

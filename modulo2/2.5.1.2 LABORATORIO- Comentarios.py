@@ -1,3 +1,9 @@
+"""
+Nombre: angel de jesus rosas muñoz
+Fecha: 13/01/23
+Descripción: 
+"""
+
 """El código en el editor contiene comentarios. Intenta mejorarlo: agrega o quita comentarios donde consideres 
 que sea apropiado (en ocasiones el remover un comentario lo hace mas legible), además, cambia el nombre de las
 variables donde consideres que esto mejorará la comprensión del código.
